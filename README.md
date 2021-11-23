@@ -18,5 +18,11 @@ María José Lee - 24 de noviembre, 2021
      - Posterior a modificar el codigo recogido, se procede a extraer por medio de listas, loops y regex la información concerniente al nombre de los congresistas, el apellido, si trabaja en el senado o como representante, el género y el partido político al que pertenece.
 
   - Para el texto de las páginas inidividuales de cada congresista 
-    - jdjdd
+    - Se utilizo un loop, que junto con regex y listas, guardaba el codigo en una variable, extraía la información que se quería del congresista, la guardaba, y despues sobreescribia el codigo del congresita con el del siguiente y volvía a repetir el ciclo.
+    - Durante esta etapa se recogio información respecto al Nivel Educativo, el lugar de nacimiento, la fecha de nacimiento, número de proyectos de ley de los que ha sido autor, cantidad de veces que ha votado y su profesión.
+
+- **Manejo, Almacenamiento y limpieza** <br>
+  - Se utilizaron listas para alamcenar, asi como generar nuevas variables en base a la recogida 
+  - Se utilizo  la librería pandas para 
+  - 
 ## Resultados

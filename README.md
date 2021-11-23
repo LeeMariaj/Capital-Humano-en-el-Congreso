@@ -22,7 +22,9 @@ María José Lee - 24 de noviembre, 2021
     - Durante esta etapa se recogio información respecto al Nivel Educativo, el lugar de nacimiento, la fecha de nacimiento, número de proyectos de ley de los que ha sido autor, cantidad de veces que ha votado y su profesión.
 
 - **Manejo, Almacenamiento y limpieza** <br>
-  - Se utilizaron listas para alamcenar, asi como generar nuevas variables en base a la recogida 
-  - Se utilizo  la librería pandas para 
-  - 
+  - Se utilizaron listas, loops y regex para almacenar y limpiar la información recolectada, asi como para generar nuevas variables con base en ella (Nombre Completo, Depatamento de Nacimiento, Edad y Años de Educación)
+  - Se utilizo la librería pandas para generar un DataFrame en donde poder consolidar toda la información referente a cada congresista.
+
+- **Gráficas** <br>
+  - kk
 ## Resultados

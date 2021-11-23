@@ -13,6 +13,10 @@ María José Lee - 24 de noviembre, 2021
     - Esto fue necesario en la medida en que descargar y guardar la información de la página de cada congresista implicaba demasiado poder de procesamiento, sin mencionar el peso exagerado del documento final.
 
 - **Extracción de la Información** <br>
-  - Para la información descargada de la API de Congreso Visible, se comienza por reemplazar los codigos especiales que hay en las palabras con tildes, por la letra con tilde. Esto para facilitar no solo la extracción de los datos, sino tambien su manejo.
-  - Posterior a modificar el codigo recogido, se procede a extraer por medio de listas, loops y regex la información concerniente al nombre de los congresistas, el apellido, si trabaja en el senado o como representante, e
+  - Para el texto recogido de la API de Congreso Visible
+    - Se comienza por reemplazar los codigos especiales que hay en las palabras con tildes, por la letra con tilde. Esto para facilitar no solo la extracción de los datos, sino tambien su manejo.
+     - Posterior a modificar el codigo recogido, se procede a extraer por medio de listas, loops y regex la información concerniente al nombre de los congresistas, el apellido, si trabaja en el senado o como representante, el género y el partido político al que pertenece.
+
+  - Para el texto de las páginas inidividuales de cada congresista 
+    - jdjdd
 ## Resultados

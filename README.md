@@ -81,3 +81,6 @@ Con las que se pretende entender mejor las características de las personas que 
 ![image](https://user-images.githubusercontent.com/92488913/143281473-a28bc08a-422a-4f1c-bef8-bfc0b1939069.png)
 ![image](https://user-images.githubusercontent.com/92488913/143281518-3e53a5c1-cf1b-4f5a-b61e-ff239a5ccea5.png)
 
+- **Votos promedio por nivel educativo**
+![image](https://user-images.githubusercontent.com/92488913/143313424-251a7c74-63a6-47ae-a8c2-c7f3df5583b1.png)
+![image](https://user-images.githubusercontent.com/92488913/143313175-d4089b62-e4df-43a7-9d0d-7b4fe5873263.png)

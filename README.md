@@ -2,9 +2,16 @@
 María José Lee - 24 de noviembre, 2021
 
 ## Descripción y Motivación
-Entender la composicion del Congreso
-Las dinamicas internas
-Ver como esta representados las mujeres y los diferentes departamentos
+El Departamento de Ciencias Políticas de la Universidad de los Andes creo el programa de Congreso Visible en 1998 con la intención de generar una fuente de información sobre lo que estaba sucediendo en el Congreso, alternativa a los medios de comunicación tradicionales. Para este proyecto se analizo la información referente a todos los congresistas del periodo 2018-2022.
+
+Este proyecto surge con la intención de generar un primer acercaminto a la dinámica y composición del Congreso, al tiempo que se respondían algunas preguntas puntuales:
+- ¿Cual es la composición de género en el Congreso?
+- ¿Cómo es la distribución de edades en el Congreso?
+- ¿De que partes del país tienden a salir los congresistas?
+- ¿Hay zonas sobre-representadas o sub-resentadas?
+- ¿Qué tan bien preparados academicamente están los congresistas?, ¿De que manera afecta esto su desempeño en el Congreso?
+- ¿Como votan los partidos al interior del congreso?
+- ¿Hay una dominancia clara en la cantidad de votos y proyectos de ley por parte de los partidos afines al gobierno, o de otro tipos de actores?
 
 ## Metodos Usados
 - **Scraping** 
@@ -85,3 +92,9 @@ Con las que se pretende entender mejor las características de las personas que 
 - **Votos promedio por nivel educativo**
 ![image](https://user-images.githubusercontent.com/92488913/143313424-251a7c74-63a6-47ae-a8c2-c7f3df5583b1.png)
 ![image](https://user-images.githubusercontent.com/92488913/143313175-d4089b62-e4df-43a7-9d0d-7b4fe5873263.png)
+
+## Posibles Continuaciones
+- Entender porque ciertos niveles de estudios y partidos no aparece como que estén efectivamente votando.
+- Entender porque las mujeres senadoras tienden a estar mejor preparadas acádmicamente que sus pares hombres, al tiempo que se tiene el efecto opuesto en la Camara de Representantes.
+- Generar una red adentro de los partidos, y entender el impacto que tener mas conexiones en la manera y frecuencia de los votos de los congresistas.
+- Entender porque hay tan baja representación de las regiones de Oniroquia y Amazonía entre los senadores.

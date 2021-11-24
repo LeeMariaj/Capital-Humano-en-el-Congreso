@@ -50,6 +50,7 @@ Con las que se pretende entender mejor las características de las personas que 
 ![Piramide Poblacional - Senadores](https://user-images.githubusercontent.com/92488913/143255113-ffea3570-fc74-44a6-8460-76c5bc4d4c14.png)
 
 - **Distribución del Departamento de Nacimiento**
+
 ![image](https://user-images.githubusercontent.com/92488913/143259305-e64d7b07-bab0-49c4-a8bf-4ec022922c29.png)![image](https://user-images.githubusercontent.com/92488913/143259341-666c61d9-49b4-480d-bc67-18cc96a1c278.png)
 
 - **Distribución de Profesiones**

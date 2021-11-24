@@ -45,7 +45,7 @@ Este proyecto surge con la intención de generar un primer acercaminto a la din�
     - **Por Partido:** Aquellas que mostrasen el comportamiento que tenían los distintos partidos dentro del congreso.
 
 ## Resultados
-Todas las gráficas están adjuntadas en los documentos de Tableau.
+Todas las gráficas fueron realizadas por medio de Tableau, y pueden ser consultadas en los documentos adjuntados.
 - Cantidad de personas identificados como Representantes: 181
 - Cantidad de personas identificados como Senadores: 118
 

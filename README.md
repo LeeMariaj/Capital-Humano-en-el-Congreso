@@ -46,6 +46,7 @@ Todas las gráficas están adjuntadas en los documentos de Tableau.
 Con las que se pretende entender mejor las características de las personas que componen el Congreso.
 
 - **Piramide Poblacional**
+
 ![Piramide Poblacional - Representantes](https://user-images.githubusercontent.com/92488913/143255104-0a8d80fb-63f5-47f1-ab66-ecab89cb44e3.png)
 ![Piramide Poblacional - Senadores](https://user-images.githubusercontent.com/92488913/143255113-ffea3570-fc74-44a6-8460-76c5bc4d4c14.png)
 
@@ -54,17 +55,29 @@ Con las que se pretende entender mejor las características de las personas que 
 ![image](https://user-images.githubusercontent.com/92488913/143259305-e64d7b07-bab0-49c4-a8bf-4ec022922c29.png)![image](https://user-images.githubusercontent.com/92488913/143259341-666c61d9-49b4-480d-bc67-18cc96a1c278.png)
 
 - **Distribución de Profesiones**
+
 ![Dist  Profesiones - Representantes](https://user-images.githubusercontent.com/92488913/143250183-4edb08a4-4a5e-4bc6-b137-b6e48f7bf76b.png)
 ![Dist  Profesiones - Senadores](https://user-images.githubusercontent.com/92488913/143250105-8e0cea5a-c357-45e0-b9da-278cce3a32d5.png)
 
 
+### Por Partido
+
+- **Autoría de Proyectos de Ley**
+![image](https://user-images.githubusercontent.com/92488913/143278933-fd48ee37-f950-40c8-862d-d7bf1f6cb53c.png)
+![image](https://user-images.githubusercontent.com/92488913/143278954-eec92fd2-dfa4-48fa-833a-d91bcc7e6882.png)
+
+- **Votos por Proyectos de Ley**
+![image](https://user-images.githubusercontent.com/92488913/143280193-3904225a-a509-4b77-921c-45cbbec6f363.png)
+![image](https://user-images.githubusercontent.com/92488913/143280224-d2f0f1ae-7a1b-4440-bb7d-99e002b66e9b.png)
 
 
-
-
-
-
+### Educación
 
 - **Distribución del Nivel Educativo**
-![image](https://user-images.githubusercontent.com/92488913/143256270-3d9b9c4c-f158-4c9e-9ff4-bf0b5ed2f25a.png)
+![Nivel Educativo General - Representantes](https://user-images.githubusercontent.com/92488913/143280871-067e9355-d60e-447b-872a-a8beaf5b7613.png)
+![Nivel Educativo General - Senadores](https://user-images.githubusercontent.com/92488913/143280770-fe11e98e-d77f-4b15-a013-df5ed5fd3d27.png)
+
+- **Contraste de Años de Educación Estimados entre Hombres y Mujeres**
+![image](https://user-images.githubusercontent.com/92488913/143281473-a28bc08a-422a-4f1c-bef8-bfc0b1939069.png)
+![image](https://user-images.githubusercontent.com/92488913/143281518-3e53a5c1-cf1b-4f5a-b61e-ff239a5ccea5.png)
 

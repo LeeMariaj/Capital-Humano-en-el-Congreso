@@ -52,7 +52,8 @@ Con las que se pretende entender mejor las características de las personas que 
 
 - **Distribución del Departamento de Nacimiento**
 
-![image](https://user-images.githubusercontent.com/92488913/143259305-e64d7b07-bab0-49c4-a8bf-4ec022922c29.png)![image](https://user-images.githubusercontent.com/92488913/143259341-666c61d9-49b4-480d-bc67-18cc96a1c278.png)
+![image](https://user-images.githubusercontent.com/92488913/143316685-34653a2b-48e7-4534-9c19-59b86acd2696.png)![image](https://user-images.githubusercontent.com/92488913/143316705-55cb94e8-594c-4b75-81c6-0886db696f30.png)
+
 
 - **Distribución de Profesiones**
 

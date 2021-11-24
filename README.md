@@ -43,19 +43,19 @@ Todas las gráficas están adjuntadas en los documentos de Tableau.
 - Cantidad de personas identificados como Senadores: 118
 
 ### Generales
-- Se comienza queriendo entender la distribución de edades, y de género, por lo que se decide generar una piramide poblacional.
+Con las que se pretende entender mejor las características de las personas que componen el Congreso.
+
+- **Piramide Poblacional**
 ![Piramide Poblacional - Representantes](https://user-images.githubusercontent.com/92488913/143255104-0a8d80fb-63f5-47f1-ab66-ecab89cb44e3.png)
 ![Piramide Poblacional - Senadores](https://user-images.githubusercontent.com/92488913/143255113-ffea3570-fc74-44a6-8460-76c5bc4d4c14.png)
 
-Nos damos cuenta, por un lado, que las edades de los congresistas parecen estar distribuidas de manera normal, y por el otro, que hay un desbalance considerable entre la proporción de mujeres con respecto a la cantidad de hombres.
+- **Distribución del Departamento de Nacimiento**
+![image](https://user-images.githubusercontent.com/92488913/143259305-e64d7b07-bab0-49c4-a8bf-4ec022922c29.png)![image](https://user-images.githubusercontent.com/92488913/143259341-666c61d9-49b4-480d-bc67-18cc96a1c278.png)
 
-- Distribución de Profesiones
+- **Distribución de Profesiones**
 ![Dist  Profesiones - Representantes](https://user-images.githubusercontent.com/92488913/143250183-4edb08a4-4a5e-4bc6-b137-b6e48f7bf76b.png)
 ![Dist  Profesiones - Senadores](https://user-images.githubusercontent.com/92488913/143250105-8e0cea5a-c357-45e0-b9da-278cce3a32d5.png)
 
-- Distribución del Departamento de Nacimiento
-
-![image](https://user-images.githubusercontent.com/92488913/143259305-e64d7b07-bab0-49c4-a8bf-4ec022922c29.png) ![image](https://user-images.githubusercontent.com/92488913/143259341-666c61d9-49b4-480d-bc67-18cc96a1c278.png)
 
 
 
@@ -64,6 +64,6 @@ Nos damos cuenta, por un lado, que las edades de los congresistas parecen estar 
 
 
 
-- Distribución del Nivel Educativo
+- **Distribución del Nivel Educativo**
 ![image](https://user-images.githubusercontent.com/92488913/143256270-3d9b9c4c-f158-4c9e-9ff4-bf0b5ed2f25a.png)
 

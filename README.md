@@ -2,6 +2,9 @@
 María José Lee - 24 de noviembre, 2021
 
 ## Descripción y Motivación
+Entender la composicion del Congreso
+Las dinamicas internas
+Ver como esta representados las mujeres y los diferentes departamentos
 
 ## Metodos Usados
 - **Scraping** 
@@ -21,10 +24,18 @@ María José Lee - 24 de noviembre, 2021
     - Se utilizo un loop, que junto con regex y listas, guardaba el codigo en una variable, extraía la información que se quería del congresista, la guardaba, y despues sobreescribia el codigo del congresita con el del siguiente y volvía a repetir el ciclo.
     - Durante esta etapa se recogio información respecto al Nivel Educativo, el lugar de nacimiento, la fecha de nacimiento, número de proyectos de ley de los que ha sido autor, cantidad de veces que ha votado y su profesión.
 
-- **Manejo, Almacenamiento y limpieza** <br>
-  - Se utilizaron listas, loops y regex para almacenar y limpiar la información recolectada, asi como para generar nuevas variables con base en ella (Nombre Completo, Depatamento de Nacimiento, Edad y Años de Educación)
+- **Manejo, Almacenamiento y Limpieza** <br>
+  - Se utilizaron listas, loops y regex para almacenar y limpiar la información recolectada, asi como para generar nuevas variables con base en ella (Nombre Completo, Departamento de Nacimiento, Edad y Años de Educación)
   - Se utilizo la librería pandas para generar un DataFrame en donde poder consolidar toda la información referente a cada congresista.
+  - Posteriormente se separo este Dataframe en dos, dependiendo de si la persona era congresista o representante. Estos serían los dos databases que serían descargados.
 
 - **Gráficas** <br>
-  - kk
+  - Para gráficar los datos recolectados se utilizo el programa Tableau.
+  - Aqui se hizo usa de las diferentes maneras en las que se podía organizar la información, asi como los toques extras que permite agregar.
+  - Las gráficas realizadas terminaron dividiendose en tres grandes temas:
+    - **Generales:** Aquellas que hablaban de la composición del Congreso en terminos generales.
+    - **De Educación:** Aquellas que estuviesen relacionadas a la educación de los congresistas, y las diferencias dependiendo de las diferentes clasificaciones.
+    - **Por Partido:** Aquellas que mostrasen el comportamiento que tenían los distintos partidos dentro del congreso.
+
 ## Resultados
+### Generales
